@@ -20,7 +20,7 @@ function App() {
         <h1>Snap Shot</h1>
       </div>
       <div className="github">
-        <span className="forkongithub"><a href="">Fork me on GitHub</a></span>
+        <span className="forkongithub"><a href="https://github.com/Imtiaz011/React-Project-SnapShot-App">Fork me on GitHub</a></span>
       </div>
       <div className="content">
         <input className="inputBox"type="text" onChange={((event) => setQuery(event.target.value))} placeholder="Search images here..."/>
