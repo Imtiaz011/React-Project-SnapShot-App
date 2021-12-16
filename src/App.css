@@ -1,0 +1,76 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+.App {
+  font-family: sans-serif;
+}
+
+.imageContainer{
+  columns: 3;
+  column-gap: 5px;
+  width: 80%;
+  margin: 2px auto;
+}
+.imageContainer img{
+  width: 100%;
+  margin: 0;
+  padding: 5px;
+}
+.content{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.inputBox{
+  margin: 60px 60px 20px 60px;
+  padding: 8px 210px 8px 8px;
+  border-radius: 30px;
+  border: 2px solid black;
+  font-size: 15px;
+}
+.Header{
+  height: 40px;
+  background-color: rgb(255, 165, 29);
+  text-align: center;
+  font-style: italic;
+}
+
+.btn {
+  border: 2px solid black;
+  border-radius: 20px;
+  padding: 5px;
+  margin: 10px;
+  margin-top: 8px;
+  font-weight: bold;
+  cursor: pointer;
+}
+.btn:hover {
+  color: white;
+  background: black;
+}
+
+.github{
+  background-color: blueviolet;
+  display: flex;
+  flex-direction: row-reverse;
+}
+.forkongithub a {
+  background: blueviolet;
+  color: #fff;
+  text-decoration: none;
+  font-family: arial, sans-serif;
+  text-align: center;
+  font-weight: bold;
+  padding: 5px 40px;
+  font-size: 1rem;
+  line-height: 2rem;
+  position: relative;
+  transition: 0.5s;
+}
+
+.forkongithub a:hover {
+  color: black;
+}
