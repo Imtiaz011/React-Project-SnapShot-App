@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/React-Project-SnapShot-App/static/css/main.648e7074.chunk.css",
-    "main.js": "/React-Project-SnapShot-App/static/js/main.c69472d3.chunk.js",
-    "main.js.map": "/React-Project-SnapShot-App/static/js/main.c69472d3.chunk.js.map",
+    "main.css": "/React-Project-SnapShot-App/static/css/main.15be38f7.chunk.css",
+    "main.js": "/React-Project-SnapShot-App/static/js/main.4f57c88a.chunk.js",
+    "main.js.map": "/React-Project-SnapShot-App/static/js/main.4f57c88a.chunk.js.map",
     "runtime-main.js": "/React-Project-SnapShot-App/static/js/runtime-main.2a5c6e12.js",
     "runtime-main.js.map": "/React-Project-SnapShot-App/static/js/runtime-main.2a5c6e12.js.map",
     "static/js/2.e51d38d7.chunk.js": "/React-Project-SnapShot-App/static/js/2.e51d38d7.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.de2af965.chunk.js": "/React-Project-SnapShot-App/static/js/3.de2af965.chunk.js",
     "static/js/3.de2af965.chunk.js.map": "/React-Project-SnapShot-App/static/js/3.de2af965.chunk.js.map",
     "index.html": "/React-Project-SnapShot-App/index.html",
-    "static/css/main.648e7074.chunk.css.map": "/React-Project-SnapShot-App/static/css/main.648e7074.chunk.css.map",
+    "static/css/main.15be38f7.chunk.css.map": "/React-Project-SnapShot-App/static/css/main.15be38f7.chunk.css.map",
     "static/js/2.e51d38d7.chunk.js.LICENSE.txt": "/React-Project-SnapShot-App/static/js/2.e51d38d7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.2a5c6e12.js",
     "static/js/2.e51d38d7.chunk.js",
-    "static/css/main.648e7074.chunk.css",
-    "static/js/main.c69472d3.chunk.js"
+    "static/css/main.15be38f7.chunk.css",
+    "static/js/main.4f57c88a.chunk.js"
   ]
 }
